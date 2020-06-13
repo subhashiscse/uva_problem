@@ -1,0 +1,109 @@
+                       STRING
+########################################################################################
+3        10252    Common Permutation
+                        AD-HOC
+########################################################################################
+1        10300 Ecological Premium
+
+1        11044  Searching For Nessy
+2        913    Joana and the Odd Numbers
+3        10922  2 the 9s
+3        10189  Mine Sweeper
+3        151    Power Crisis
+3        440    Eeny Meeny Moo
+ 
+M:
+3        11389    The Bus Driver Problem
+4        10194 Football (aka Soccer)
+ 
+                        PRIME
+########################################################################################
+ 
+1    160    Factors and Factorials
+2    583    Prime Factors
+2    10533    Digit Primes
+2    10948    The Primary Problem
+3    884    Factorial Factors
+4    914    Jumping Champion
+4    967    Circular
+ 
+                        GEOMETRY
+########################################################################################
+ 
+    10991    Region
+    190    Circle Through Three Points
+    10310    Dog and gopher
+    10432    Polygon Inside a Circle
+    11646    Athletics Track
+    10297    Beavergnaw
+    10242    Fourth Point!!!
+    10221    Satellites
+    10195    Knights of the round table
+    10209    Is this Integration
+    11909 - Soya Milk
+ 
+ 
+                        BIGNUM
+########################################################################################
+ 
+1    424    Integer Inquiry
+2    10013    Super long sums
+3    10106    Product
+3    495    Fibonacci Freeze
+4    623    500!
+4    10220    I Love Big Numbers!
+ 
+ 
+                        GRAPH:
+########################################################################################
+ 
+1    10004    Bicoloring
+1    572    Oil Deposits
+1    (TJU)2469 Friends
+2    439    Knight Moves
+3    532    Dungeon Master
+3    821    Page Hopping
+5    11352    Crazy King
+6    11624    Fire!
+
+
+
+113 * EXPON 1
+
+
+579 * GEOMETRY 2
+583 * N TH. 2
+10310 * GEOMERY 2
+11417 * N TH. 2
+
+
+
+10300 * N TH. 3
+
+
+350 * N TH. 4
+10922 * EASY 4
+11388 * N TH. 4
+
+369 * N TH. 5
+374 * N TH. 5
+834 * N TH. 5
+10019 * NUMBER TH. 5
+10038 * SORTING 5
+11577 * STRING 5
+
+138 NUMBER TH. 6
+278 AD-HOC 6
+412 N TH. 6
+10013 STRING 6
+10179 N TH. 6
+11401 N TH. 6
+11554 N TH. 6
+
+190 GEOMETRY 7
+438 GEOMETRY 7
+10221 GEOMETRY 7
+10432 GEOMETRY 7
+10678 Geometry 7
+10773 GEOMETRY 7
+11401 GEOMETRY 7
